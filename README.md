@@ -11,9 +11,9 @@ Using Transfer Learning techniques for circuit component analysis with DCT/FFT f
 ![cbam](https://user-images.githubusercontent.com/94052139/233798759-0d18aa78-b5ab-4f9c-bac5-f733080748ae.png)
 
 ## How to use
--Fork the repository.
--Download the dataset (already in the repository do forking would do the job).
--Run the jupyter notebook scripts to train the models or use the pretrained models to generate the results.
+-Fork the repository.<br/>
+-Download the dataset (already in the repository do forking would do the job).<br/>
+-Run the jupyter notebook scripts to train the models or use the pretrained models to generate the results.<br/>
 
 ## Authors :nerd_face:*
 Ayush Roy<br/>
