@@ -3,11 +3,12 @@
 Using Transfer Learning techniques for circuit component analysis with DCT/FFT features for rotation invariance. Official code implementation of the paper "JUHCCR-v1-A-Database-for-Hand-drawn-Electrical-and-Electronics-Circuit-Component-Recognition"
 
 ### Overall workflow:
+![model](https://user-images.githubusercontent.com/94052139/233798784-679c04d0-884d-4506-9a78-d389742a40f3.png)
 
-![Overall](https://user-images.githubusercontent.com/94052139/201930316-52fe158d-3e57-4eca-b627-480ea1175c4c.png)
 ### Architecture of DenseNet-121:
 ![dense](https://user-images.githubusercontent.com/94052139/233798528-cffc9204-799f-44c3-b39a-272605d58160.png)
 ### Illustration of CBAM:
+![cbam](https://user-images.githubusercontent.com/94052139/233798759-0d18aa78-b5ab-4f9c-bac5-f733080748ae.png)
 
 ## How to use
 -Fork the repository.
