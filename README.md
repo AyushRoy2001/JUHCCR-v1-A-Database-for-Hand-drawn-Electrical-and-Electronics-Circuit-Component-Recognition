@@ -2,6 +2,9 @@
 
 Using Transfer Learning techniques for circuit component analysis with DCT/FFT features for rotation invariance. Official code implementation of the paper "JUHCCR-v1-A-Database-for-Hand-drawn-Electrical-and-Electronics-Circuit-Component-Recognition"
 
+### Link to the proposed dataset:
+https://www.kaggle.com/datasets/ayush02102001/circuit-component-analysis
+
 ### Overall workflow:
 ![model](https://user-images.githubusercontent.com/94052139/233798784-679c04d0-884d-4506-9a78-d389742a40f3.png)
 
