@@ -15,7 +15,7 @@ https://www.kaggle.com/datasets/ayush02102001/circuit-component-analysis
 
 ## How to use
 -Fork the repository.<br/>
--Download the dataset (already in the repository do forking would do the job).<br/>
+-Download the dataset from the Kaggle link provided.<br/>
 -Run the jupyter notebook scripts to train the models or use the pretrained models to generate the results.<br/>
 
 ## Authors :nerd_face:*
