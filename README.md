@@ -21,8 +21,10 @@ https://www.kaggle.com/datasets/ayush02102001/circuit-component-analysis
 ## Authors :nerd_face:*
 Ayush Roy<br/>
 Saptarshi Pani<br/>
-Ram Sarkar<br/>
 Samir Malakar<br/>
+Erik Cuevas<br/>
+Marco P´erez-Cisneros<br/>
+Ram Sarkar<br/>
 
 ## Citation :thinking:*
 Please do cite our paper in case you find it useful for your research.<br/>
